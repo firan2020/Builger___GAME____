@@ -480,6 +480,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ca842408b2d8db4bb94088ea9dd3d34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SaveSystem
+  worldPrefabs:
+  - {fileID: 8766044141564198819, guid: ccaef01584eb5d348b1dc2e81bee0b1a, type: 3}
+  handPrefabs:
+  - {fileID: 1000059451159649538, guid: b9c5267598d895245ad0cd9efa544af0, type: 3}
 --- !u!4 &349838199
 Transform:
   m_ObjectHideFlags: 0
